@@ -1,0 +1,18 @@
+[
+    {
+        "Name" : "Priyanka",
+        "Age"  : 22,
+        "DOB"  :"01/15/2002"
+    },
+    {
+        "Name" : "Prasanna",
+        "Age"  : 26,
+        "DOB"  :"08/07/1997"
+    },
+
+    {
+        "Name" : "Ganesan",
+        "Age"  : 48,
+        "DOB"  :"12/01/1975"
+    }
+]
